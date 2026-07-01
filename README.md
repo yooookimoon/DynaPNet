@@ -32,5 +32,4 @@ Accuracy (ACC)
 Area Under the ROC Curve (AUC)
 Sensitivity (SEN)
 Specificity (SPE)
-
-Some modules are currently being organized and will be uploaded to GitHub soon.
+Some modules are currently being organized and will be uploaded soon. The full codebase will be released upon acceptance of the manuscript.
