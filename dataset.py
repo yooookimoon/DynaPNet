@@ -13,7 +13,7 @@ class BrainSNP_Dataset(Dataset):
     def __init__(self, snp_dir="/root/autodl-tmp/data/SNP_bnn",
                        brain_feature_dir="/root/autodl-tmp/data/brain_feature",
                        label_file="/root/autodl-tmp/data/label-CNAD.txt",
-                       corr_threshold=0.7,
+                       corr_threshold=0.6,
                        transform=None,
                        split="train",
                        seed=42):
